@@ -1,2 +1,2 @@
-# earn-thc
+# Earn THC
 Sekmeyi kapatmadıkça para kazan!
